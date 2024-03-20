@@ -1,3 +1,4 @@
+
 ![Screenshot 2024-03-16 173528](https://github.com/ayushh1804/CI-CD_terraform/assets/88641651/edda190d-b35d-401a-9b58-ede074fe5653)
 </br></br>
 ![Screenshot 2024-03-16 161342](https://github.com/ayushh1804/CI-CD_terraform/assets/88641651/35eba2c5-f204-440f-87dc-8a6aa0aeb958)
@@ -7,3 +8,8 @@
 ![Screenshot 2024-03-16 173446](https://github.com/ayushh1804/CI-CD_terraform/assets/88641651/06856f2e-4de3-40b3-93cc-857c5c3ff247)
 </br></br>
 ![Screenshot 2024-03-16 173705](https://github.com/ayushh1804/CI-CD_terraform/assets/88641651/b657c4c8-01e1-4002-af91-ee47f27b2cd8)
+</br></br>
+
+<h3> Setting up our GitLab CI/CD pipeline by creating a .gitlab-ci.yml file in the repository. This YAML file defines the stages of our pipeline and the commands to execute for each stage.</h3>
+
+![image](https://github.com/ayushh1804/CI-CD_terraform/assets/88641651/25e70dc0-ffda-418c-a72f-c56ae51e15e4)
